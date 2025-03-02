@@ -1,4 +1,4 @@
-![Demonstração do MiniBlog](____./src/assets/miniblog.png____)
+![Demonstração do MiniBlog](src/assets/miniblog.png)
 
 ---
 
